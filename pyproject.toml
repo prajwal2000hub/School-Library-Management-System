@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "school-library-management-system"
+version = "0.1.0"
+description = "A simple school library management system"
+authors = ["Prajwal.K <prajwal20001108@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3

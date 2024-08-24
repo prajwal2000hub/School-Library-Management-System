@@ -1,4 +1,4 @@
-# School-library-management-system
+# School-Library-Management-System
 This project implements a simple backend for a school library management system using FastAPI and SQLAlchemy.. Which has the following features:
 
 1.	New Books can be added.

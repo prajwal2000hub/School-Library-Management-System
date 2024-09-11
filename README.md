@@ -8,7 +8,6 @@ This project implements a simple backend for a school library management system 
 5.	Display 5 popular books among students along with the number of times they were issued.
 
 
-# Structure of the application
 
 # Information about the tables and their fields
 School library management system has 5 Tables:
